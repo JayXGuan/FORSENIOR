@@ -5,3 +5,4 @@ run/
 .DS_Store
 web/build/
 build/
+src/.umi
