@@ -1,0 +1,7 @@
+node_modules/
+logs/
+run/
+.vscode/
+.DS_Store
+web/build/
+build/
